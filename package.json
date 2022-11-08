@@ -1,11 +1,11 @@
 {
-	"name": "steam-tradeoffer-manager",
+	"name": "@vgm-com/steam-tradeoffer-manager",
 	"version": "2.10.5",
 	"description": "A simple trade offers API for Steam",
 	"main": "./lib/index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/DoctorMcKay/node-steam-tradeoffer-manager.git"
+		"url": "https://github.com/vunguyen9404/node-steam-tradeoffer-manager.git"
 	},
 	"keywords": [
 		"steam",
