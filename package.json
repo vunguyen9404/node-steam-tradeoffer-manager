@@ -1,6 +1,6 @@
 {
 	"name": "@vgm-com/steam-tradeoffer-manager",
-	"version": "2.10.7",
+	"version": "2.10.8",
 	"description": "A simple trade offers API for Steam",
 	"main": "./lib/index.js",
 	"repository": {
@@ -26,10 +26,13 @@
 	},
 	"dependencies": {
 		"@doctormckay/stdlib": "^1.5.1",
+		"@vgm-com/steamcommunity": "^0.1.1",
 		"appdirectory": "^0.1.0",
 		"async": "^2.6.0",
+		"axios": "^1.3.5",
 		"deep-equal": "^1.0.1",
 		"file-manager": "^1.0.1",
+		"https-proxy-agent": "^5.0.1",
 		"languages": "^0.1.3",
 		"steamcommunity": "^3.33.1",
 		"steamid": "^1.1.0"
