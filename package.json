@@ -1,6 +1,6 @@
 {
 	"name": "@vgm-com/steam-tradeoffer-manager",
-	"version": "2.10.14",
+	"version": "2.10.16",
 	"description": "A simple trade offers API for Steam",
 	"main": "./lib/index.js",
 	"repository": {
